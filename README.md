@@ -40,3 +40,6 @@ To run the Synth application, navigate to the directory containing `Synth.py` an
 5. **Stop Audio**: Click on the "Stop" button to stop the audio playback.
 
 ## Credit
+*-Name-PID-Contribution*
+-Ian Webster-A17934416-Modified and added to existing code to create and implement the echo feature. Commented on these additions.
+
