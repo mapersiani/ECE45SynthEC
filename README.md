@@ -38,3 +38,5 @@ To run the Synth application, navigate to the directory containing `Synth.py` an
 3. **Adjust Audio Effects**: Use the sliders to adjust the amplitude, pitch, and echo of the audio.
 4. **Play Audio**: Click on the "Apply Effects" button to play the modified audio.
 5. **Stop Audio**: Click on the "Stop" button to stop the audio playback.
+
+## Credit
