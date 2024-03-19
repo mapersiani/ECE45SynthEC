@@ -20,9 +20,9 @@ Synth is a simple audio manipulation tool built with Python and Tkinter. It allo
 - python -m venv SynthEnv
 - Activate the virtual environment:
     - On Windows:
-    `.\env\Scripts\activate`
+    `.\SynthEnv\Scripts\activate`
     - On macOS and Linux:
-    `source env/bin/activate`
+    `source SynthEnv/bin/activate`
 4. **Install Dependencies**
 - Install the required packages using 
 `pip install -r requirements.txt`
