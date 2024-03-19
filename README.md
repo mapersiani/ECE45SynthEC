@@ -1,4 +1,4 @@
-# Synth Application
+`# Synth Application
 
 ## Introduction
 Synth is a simple audio manipulation tool built with Python and Tkinter. It allows users to apply basic audio effects such as volume adjustment, pitch shifting, and echo to WAV files. 
@@ -40,6 +40,5 @@ To run the Synth application, navigate to the directory containing `Synth.py` an
 5. **Stop Audio**: Click on the "Stop" button to stop the audio playback.
 
 ## Credit
-*-Name-PID-Contribution*
--Ian Webster-A17934416-Modified and added to existing code to create and implement the echo feature. Commented on these additions.
+- Ian Webster-A17934416-Modified and added to existing code to create and implement the echo feature. Commented on these additions.
 
