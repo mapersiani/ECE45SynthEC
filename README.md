@@ -10,12 +10,31 @@ Synth is a simple audio manipulation tool built with Python and Tkinter. It allo
 - Apply an echo effect.
 - Play modified audio in real-time.
 
-## Installation
-
-1. **Clone the Repository**
- First, download the file or clone the repo to your local machine using Git:
 ## Requirements
 - Python 3.6 or newer
-- Required packages can be installed by running the following code in the terminal:
+
+## Installation
+1. **Clone the Repository**
+- First, download the zip file and unzip it
+2. **Create a Virtual Environment (Optional)**
+- python -m venv SynthEnv
+- Activate the virtual environment:
+    - On Windows:
+    `.\env\Scripts\activate`
+    - On macOS and Linux:
+    `source env/bin/activate`
+4. **Install Dependencies**
+- Install the required packages using 
 `pip install -r requirements.txt`
 
+## Usage
+To run the Synth application, navigate to the directory containing `Synth.py` and execute the following command in the terminal:
+`python Synth.py`
+
+### How to Use Synth
+
+1. **Select Audio File**: Click on the "Select Audio File" button to choose a WAV file from your system.
+2. **Use Default Audio**: Click on the "Default Audio File" button to load the default WAV file included with the application.
+3. **Adjust Audio Effects**: Use the sliders to adjust the amplitude, pitch, and echo of the audio.
+4. **Play Audio**: Click on the "Apply Effects" button to play the modified audio.
+5. **Stop Audio**: Click on the "Stop" button to stop the audio playback.
