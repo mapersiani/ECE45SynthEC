@@ -23,7 +23,7 @@ Synth is a simple audio manipulation tool built with Python and Tkinter. It allo
     `.\SynthEnv\Scripts\activate`
     - On macOS and Linux:
     `source SynthEnv/bin/activate`
-4. **Install Dependencies**
+3. **Install Dependencies**
 - Install the required packages using 
 `pip install -r requirements.txt`
 
