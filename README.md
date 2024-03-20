@@ -14,7 +14,7 @@ Synth is a simple audio manipulation tool built with Python and Tkinter. It allo
 - Python 3.6 or newer
 
 ## Installation
-1. **Clone the Repository**
+1. **Download**
 - First, download the zip file and unzip it
 2. **Create a Virtual Environment (Optional)**
 - python -m venv SynthEnv
