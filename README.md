@@ -41,4 +41,6 @@ To run the Synth application, navigate to the directory containing `Synth.py` an
 
 ## Credit
 - Ian Webster-A17934416-Modified and added to existing code to create and implement the echo feature. Commented on these additions.
+- Nicholas Campos - began the base code and the two functions(pitch and amplifier). Helped ironed out Matteo's new code
+- 
 
